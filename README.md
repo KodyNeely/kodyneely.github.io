@@ -26,12 +26,11 @@
 ## Projects
 ### Artamis Programming Language
 #### TODO: Shortenand move to website description
-Artamis is an amorphous JIT (just in time) programming language designed for developing and Automating a variety of Information Systems. It uses common Lexer and Parser notation to build and run a task specific programming language compiler for project specific languages. It can be used to parse existinge file formats - such as Markdown, XML, or JSON - but it can also create or parse unique file formats. Artamis can also be used to run code segments inside of a static file to transform its contents on read.
-It has be used for many different applications such as: Machine Learning, Automated Video Editing, Content Generation, Video Game Development,
+Is an amorphous JIT language, automates Information Systems using dynamic custom compiler. Parsing known formats (eg. Markdown, XML, JSON) and custom user formats (including itself) it can execute code segments within the static files on read. ARTAMIS currently finds applications in Compiler Creation, Machine Learning, Automated Video Editing, Content Generation, and Video Game Development.
 A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://artamis.ca/about/artamis)
 
 ### 2D Platformer Game
-Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project is available to try on [itch.io](https://itch.io) on date TBD
+Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project will soon be available to try on [itch.io](https://itch.io) on date TBD
 
 ## Awards
 **2013 YMCA Peace Award** - _For my contributions to “Ten Miles Out”_
