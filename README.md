@@ -1,8 +1,14 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 # Software Engineering
 
 #### Language Proficiency: Python, JavaScript, PHP, HTML5, CSS, Arduino, Java, C++, Raspberry Pi, GDscript
 #### Web Arcitectures: jQuery, Express, Bootstrap, Angular, Vue, .Net
 #### Technical Skills: Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
+
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+</div>
 
 ## Education
 **Computer Systems Tech.** -@- Mohawk College (_2023_)<br>
