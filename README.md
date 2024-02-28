@@ -2,13 +2,37 @@
 
 # Software Engineering
 
-#### Language Proficiency: Python, JavaScript, PHP, HTML5, CSS, Arduino, Java, C++, Raspberry Pi, GDscript
-#### Web Arcitectures: jQuery, Express, Bootstrap, Angular, Vue, .Net
-#### Technical Skills: Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
+## Language Proficiency:
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">Python - 90%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:80%">PHP - 80%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">HTML5/CSS - 75%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:85%">JavaSctipt - 85%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">TypeScript - 75%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:70%">TypeScript - 70%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">Java - 75%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:85%">C++ - 85%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">GDscript - 90%</div></div>
+<hr>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">Raspberry Pi - 75%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:80%">Arduino - 80%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:50%">BASIC - 50%</div></div>
 
-<div class="w3-light-grey w3-xlarge">
-  <div class="w3-container w3-green" style="width:50%">50%</div>
-</div>
+## Arcitectures:
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">Node - 90%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:85%">jQuery - 85%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">Express - 75%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:80%">Bootstrap - 80%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:70%">Angular - 70%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:65%">Vue - 65%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:45%">.Net - 45%</div></div>
+<hr/>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:65%">Discord - 65%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">Unity - 75%</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:85%">Godot - 90%</div></div>
+
+### Technical Skills: Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
+
+<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:50%">50%</div></div>
 
 ## Education
 **Computer Systems Tech.** -@- Mohawk College (_2023_)<br>
