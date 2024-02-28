@@ -1,4 +1,4 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 # Software Engineering
 
@@ -6,8 +6,8 @@
 #### Web Arcitectures: jQuery, Express, Bootstrap, Angular, Vue, .Net
 #### Technical Skills: Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+<div class="w3-light-grey w3-xlarge">
+  <div class="w3-container w3-green" style="width:50%">50%</div>
 </div>
 
 ## Education
