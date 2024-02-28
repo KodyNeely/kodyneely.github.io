@@ -5,21 +5,21 @@
 #### Technical Skills: Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 
 ## Education
-- Computer Systems Tech. | Mohawk College (_2023_)								       		
-- Computer Engineering Tech. | Mohawk College (_2019_)	 			        		
+- Computer Systems Tech. | Mohawk College (_2023_)
+- Computer Engineering Tech. | Mohawk College (_2019_)
 - General Business | Mohawk College (_PRESENT_)
 - OSSD, Computer Science & Performing Arts | Glendale Secondary (_2014_)
 
 ## Experience
-**Entrepreneurial Co-op @ Mohawk College (_2021_)**
+**Entrepreneurial Co-op -@- Mohawk College (_2021_)**
 - Designed and Built a viable Computer Science MVP & Business Plan.
 - Presented the Business and its Minimum Viable Product to investors.
 
-**Peer Tutor @ Mohawk College (_2018_)**
+**Peer Tutor -@- Mohawk College (_2018_)**
 - One on one tutoring in Computer Engineering Technology.
 - Was offered a position due to above expection performance in class.
 
-**Volunteer Security @ Felsival of Friends (_2011 - PRESENT_)**
+**Volunteer Security -@- Felsival of Friends (_2011 - PRESENT_)**
 - Daytime Security and Information Services, Backstage Security
 - Overnight Security
 
