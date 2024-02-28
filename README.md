@@ -5,10 +5,10 @@
 #### Technical Skills: Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 
 ## Education
-- Computer Systems Tech. | Mohawk College (_2023_)								       		
-- Computer Engineering Tech. | Mohawk College (_2019_)	 			        		
-- General Business | Mohawk College (_PRESENT_)
-- OSSD, Computer Science & Performing Arts | Mohawk College (_2014_)
+- Computer Systems Tech. || Mohawk College (_2023_)								       		
+- Computer Engineering Tech. || Mohawk College (_2019_)	 			        		
+- General Business || Mohawk College (_PRESENT_)
+- OSSD, Computer Science & Performing Arts || Glendale Secondary (_2014_)
 
 ## Experience
 **Entrepreneurial Co-op @ Mohawk College (_2021_)**
@@ -31,8 +31,7 @@ It has be used for many different applications such as: Machine Learning, Automa
 A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://artamis.ca/about/artamis)
 
 ### 2D Platformer Game
-[itch.io](#)
-add some more info about the other project here
+Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project is available to try on [itch.io](https://itch.io) on date TBD
 
 ## Awards
 **2013 YMCA Peace Award** - _For my contributions to “Ten Miles Out”_
