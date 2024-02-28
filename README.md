@@ -25,7 +25,6 @@
 
 ## Projects
 ### Artamis Programming Language
-#### TODO: Shortenand move to website description
 Is an amorphous JIT language, automates Information Systems using dynamic custom compiler. Parsing known formats (eg. Markdown, XML, JSON) and custom user formats (including itself) it can execute code segments within the static files on read. ARTAMIS currently finds applications in Compiler Creation, Machine Learning, Automated Video Editing, Content Generation, and Video Game Development.
 A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://artamis.ca/about/artamis)
 
