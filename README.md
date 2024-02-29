@@ -3,9 +3,9 @@
   .bar div { padding: 0.2em 16px; background-color: #3667A6; color: white; font-weight: bold; border-radius: 5px 0px 0px 5px }
   .bar .highlight { background-color: #214177 }
   .bar .lowlight { background-color: #82A6CB }
+  
   li:only-child { list-style: none }
-  *:has(+ ul>li:only-child) { color: red }
-  *:has(~ ul>li:only-child) { color: green }
+  *:has(+ul) { margin-bottom: 0px }
 </style>
 
 # Software Engineering
