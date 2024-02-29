@@ -4,6 +4,8 @@
   .bar .highlight { background-color: #214177 }
   .bar .lowlight { background-color: #82A6CB }
   li:only-child { list-style: none }
+  * + li:only-child { color: red }
+  * ~ li:only-child { color: green }
 </style>
 
 # Software Engineering
