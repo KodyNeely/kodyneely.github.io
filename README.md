@@ -8,10 +8,17 @@
 # Software Engineering
 
 ## Education
-**Computer Systems Tech.** -@- Mohawk College (_2023_)<br>
-**Computer Engineering Tech.** -@- Mohawk College (_2019_)<br>
-**General Business** -@- Mohawk College (_PRESENT_)<br>
-**Computer Science & Perf. Arts** -@- Glendale Secondary (_2014_)<br>
+**Computer Systems Tech.** -@- Mohawk College (_2023_)
+- Improving my skills in computer software engineering and computer systems technology, by developing various systems and solutions.{color:red}
+
+**Computer Engineering Tech.** -@- Mohawk College (_2019_)
+- Developed skills in computer engineering technology while sharpening them by helping others.
+
+**General Business** -@- Mohawk College (_PRESENT_)
+- Developing my business skills in many areas while learning to apply them to personal and professional situations.
+
+**Computer Science & Perf. Arts** -@- Glendale Secondary (_2014_)
+- Graduated with a Specialist High Skills Major (SHSM) in Arts and Culture.
 
 ## Experience
 **Entrepreneurial Co-op** -@- Mohawk College (_2021_)
