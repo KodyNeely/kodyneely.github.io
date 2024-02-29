@@ -1,4 +1,6 @@
 <style>
+  header { text-wrap: nowrap }
+  
   .bar { margin-bottom: 6px; background-color: lightgray; border-radius: 5px }
   .bar div { padding: 0.2em 16px; background-color: #3667A6; color: white; font-weight: bold; border-radius: 5px 0px 0px 5px }
   .bar .highlight { background-color: #214177 }
