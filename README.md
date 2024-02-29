@@ -3,6 +3,7 @@
   .bar div { padding: 0.2em 16px; background-color: #3667A6; color: white; font-weight: bold; border-radius: 5px 0px 0px 5px }
   .bar .highlight { background-color: #214177 }
   .bar .lowlight { background-color: #82A6CB }
+  li:only-child { list-style: none }
 </style>
 
 # Software Engineering
@@ -36,7 +37,7 @@
 <hr>
 
 ### Technical Skills:
-Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
+- Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 
 ### Language Proficiency:
 <div class="bar"><div class="highlight" style="width:90%">Python - 90%</div></div>
