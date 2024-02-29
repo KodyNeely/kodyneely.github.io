@@ -10,7 +10,7 @@
 
 ## Education
 **Computer Systems Tech.** -@- Mohawk College (_2023_)
-- Improving my skills in computer software engineering and computer systems technology, by developing various systems and solutions.{color:red}
+- Improving my skills in computer software engineering and computer systems technology, by developing various systems and solutions.
 
 **Computer Engineering Tech.** -@- Mohawk College (_2019_)
 - Developed skills in computer engineering technology while sharpening them by helping others.
