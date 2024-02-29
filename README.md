@@ -58,7 +58,7 @@
 <div class="bar"><div class="" style="width:70%">Arduino - 70%</div></div>
 <div class="bar"><div class="w3-indigo" style="width:65%">BASIC - 65%</div></div>
 
-_Based on a general ranking companred to 100 other applicants._
+_Based on a general ranking compared to 100 other applicants._
 <br>
 
 ### Arcitectures:
@@ -74,7 +74,7 @@ _Based on a general ranking companred to 100 other applicants._
 <div class="bar"><div class="" style="width:75%">Unity - 75%</div></div>
 <div class="bar"><div class="" style="width:85%">Godot - 90%</div></div>
 
-_Based on a general ranking companred to 100 other applicants._
+_Based on a general ranking compared to 100 other applicants._
 <hr>
 
 ## Projects
