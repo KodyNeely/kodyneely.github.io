@@ -1,8 +1,8 @@
 <style>
   .bar { margin-bottom: 6px; background-color: light-gray }
-  .bar div { padding: 0.01em 16px; background-color: blue; color: white }
-  .bar .highlight { background-color: green }
-  .bar .lowlight { background-color: red }
+  .bar div { padding: 0.01em 16px; background-color: #535C91; color: white; font-weight: bold }
+  .bar .highlight { background-color: #1B1A55 }
+  .bar .lowlight { background-color: #9290C3 }
 </style>
 
 # Software Engineering
