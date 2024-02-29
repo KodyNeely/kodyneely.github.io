@@ -1,5 +1,9 @@
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style> .bar { margin-bottom: 6px } </style>
+<style>
+  .bar { margin-bottom: 6px; background-color: light-gray }
+  .bar div { padding: 0.01em 16px; background-color: blue }
+  .bar .highlight { background-color: green }
+  .bar .lowlight { background-color: red }
+</style>
 
 # Software Engineering
 
