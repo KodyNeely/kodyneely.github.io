@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style> .bar { margin-bottom: 3px } </style>
+<style> .bar { margin-bottom: 6px } </style>
 
 # Software Engineering
 
@@ -22,40 +22,40 @@
 - Daytime Security and Information Services, Backstage Security
 - Overnight Security
 
+<hr>
 
-## Technical Skills:
+### Technical Skills:
 Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 
-## Language Proficiency:
+### Language Proficiency:
 <div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:90%">Python - 90%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:80%">PHP - 80%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:75%">HTML5/CSS - 75%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:75%">PHP - 75%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:70%">HTML5/CSS - 70%</div></div>
 <div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:85%">JavaSctipt - 85%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:75%">TypeScript - 75%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:70%">TypeScript - 70%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:75%">Java - 75%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:85%">C++ - 85%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:90%">GDscript - 90%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:70%">TypeScript - 70%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-pale-blue" style="width:65%">SQL - 65%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:70%">Java - 70%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:80%">C++ - 80%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:90%">GDscript - 90%</div></div>
 <br>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:75%">Raspberry Pi - 75%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:80%">Arduino - 80%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:50%">BASIC - 50%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:70%">Raspberry Pi - 70%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:70%">Arduino - 70%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:65%">BASIC - 65%</div></div>
+<br>
 
-## Arcitectures:
+### Arcitectures:
 <div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:90%">Node - 90%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:85%">jQuery - 85%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:75%">Express - 75%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:80%">Bootstrap - 80%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:70%">Angular - 70%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:65%">Vue - 65%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:45%">.Net - 45%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:80%">jQuery - 80%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:70%">Express - 70%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:75%">Bootstrap - 75%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-pale-blue" style="width:65%">Angular - 65%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:70%">Vue - 70%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-pale-blue" style="width:45%">.Net - 45%</div></div>
 <br/>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:65%">Discord - 65%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:75%">Unity - 75%</div></div>
-<div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:85%">Godot - 90%</div></div>
-
-
-
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:65%">Discord - 65%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:75%">Unity - 75%</div></div>
+<div class="w3-light-grey bar"><div class="w3-container w3-light-blue" style="width:85%">Godot - 90%</div></div>
+<hr>
 
 ## Projects
 ### Artamis Programming Language
