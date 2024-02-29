@@ -3,6 +3,29 @@
 
 # Software Engineering
 
+## Education
+**Computer Systems Tech.** -@- Mohawk College (_2023_)<br>
+**Computer Engineering Tech.** -@- Mohawk College (_2019_)<br>
+**General Business** -@- Mohawk College (_PRESENT_)<br>
+**Computer Science & Perf. Arts** -@- Glendale Secondary (_2014_)<br>
+
+## Experience
+**Entrepreneurial Co-op** -@- Mohawk College (_2021_)
+- Designed and Built a viable Computer Science MVP & Business Plan.
+- Presented the Business and its Minimum Viable Product to investors.
+
+**Peer Tutor** -@- Mohawk College (_2018_)
+- One on one tutoring in Computer Engineering Technology.
+- Was offered a position due to above expection performance in class.
+
+**Volunteer Security** -@- Felsival of Friends (_2011 - PRESENT_)
+- Daytime Security and Information Services, Backstage Security
+- Overnight Security
+
+
+## Technical Skills:
+Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
+
 ## Language Proficiency:
 <div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:90%">Python - 90%</div></div>
 <div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:80%">PHP - 80%</div></div>
@@ -31,28 +54,8 @@
 <div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:75%">Unity - 75%</div></div>
 <div class="w3-light-grey bar"><div class="w3-container w3-blue" style="width:85%">Godot - 90%</div></div>
 
-### Technical Skills: Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:50%">50%</div></div>
 
-## Education
-**Computer Systems Tech.** -@- Mohawk College (_2023_)<br>
-**Computer Engineering Tech.** -@- Mohawk College (_2019_)<br>
-**General Business** -@- Mohawk College (_PRESENT_)<br>
-**Computer Science & Perf. Arts** -@- Glendale Secondary (_2014_)<br>
-
-## Experience
-**Entrepreneurial Co-op** -@- Mohawk College (_2021_)
-- Designed and Built a viable Computer Science MVP & Business Plan.
-- Presented the Business and its Minimum Viable Product to investors.
-
-**Peer Tutor** -@- Mohawk College (_2018_)
-- One on one tutoring in Computer Engineering Technology.
-- Was offered a position due to above expection performance in class.
-
-**Volunteer Security** -@- Felsival of Friends (_2011 - PRESENT_)
-- Daytime Security and Information Services, Backstage Security
-- Overnight Security
 
 ## Projects
 ### Artamis Programming Language
