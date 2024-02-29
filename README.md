@@ -45,6 +45,8 @@ Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 <div class="bar"><div class="" style="width:70%">Raspberry Pi - 70%</div></div>
 <div class="bar"><div class="" style="width:70%">Arduino - 70%</div></div>
 <div class="bar"><div class="w3-indigo" style="width:65%">BASIC - 65%</div></div>
+
+_Based on a general ranking companred to 100 other applicants._
 <br>
 
 ### Arcitectures:
@@ -52,18 +54,20 @@ Cisco Networking, AutoCAD, Soldering, Wiring, General Testing & Development
 <div class="bar"><div class="" style="width:80%">jQuery - 80%</div></div>
 <div class="bar"><div class="" style="width:70%">Express - 70%</div></div>
 <div class="bar"><div class="" style="width:75%">Bootstrap - 75%</div></div>
-<div class="bar"><div class="lowlight" style="width:65%">Angular - 65%</div></div>
+<div class="bar"><div class="lowlight" style="width:60%">Angular - 60%</div></div>
 <div class="bar"><div class="" style="width:70%">Vue - 70%</div></div>
 <div class="bar"><div class="lowlight" style="width:45%">.Net - 45%</div></div>
 <br/>
 <div class="bar"><div class="" style="width:65%">Discord - 65%</div></div>
 <div class="bar"><div class="" style="width:75%">Unity - 75%</div></div>
 <div class="bar"><div class="" style="width:85%">Godot - 90%</div></div>
+
+_Based on a general ranking companred to 100 other applicants._
 <hr>
 
 ## Projects
 ### Artamis Programming Language
-Is an amorphous JIT language, automates Information Systems using dynamic custom compiler. Parsing known formats (eg. Markdown, XML, JSON) and custom user formats (including itself) it can execute code segments within the static files on read. ARTAMIS currently finds applications in Compiler Creation, Machine Learning, Automated Video Editing, Content Generation, and Video Game Development.
+Is an amorphous JIT language, automates Information Systems using dynamic custom compiler. Parsing known formats (Markdown, XML, JSON) and custom user formats, it can execute code segments within the static files on read. ARTAMIS currently finds applications in _Compiler Creation, Machine Learning, Automated Video Editing, Content Generation,_ and _Video Game Development_.
 A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://artamis.ca/about/artamis)
 
 ### 2D Platformer Game
