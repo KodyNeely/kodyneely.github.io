@@ -65,6 +65,7 @@ _Based on a general ranking compared to 100 other applicants._
 ### Arcitectures:
 <div class="bar"><div class="highlight" style="width:90%">Node - 90%</div></div>
 <div class="bar"><div class="" style="width:80%">jQuery - 80%</div></div>
+<div class="bar"><div class="" style="width:75%">React - 75%</div></div>
 <div class="bar"><div class="" style="width:70%">Express - 70%</div></div>
 <div class="bar"><div class="" style="width:75%">Bootstrap - 75%</div></div>
 <div class="bar"><div class="lowlight" style="width:60%">Angular - 60%</div></div>
