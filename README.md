@@ -72,12 +72,12 @@ _Based on a general ranking compared to 100 other applicants._
 <div class="bar"><div class="" style="width:70%">Vue - 70%</div></div>
 <div class="bar"><div class="lowlight" style="width:45%">.Net - 45%</div></div>
 <br/>
+<div class="bar"><div class="highlight" style="width:80%">Linux (Ubuntu +Minimal) - 80%</div></div>
+<div class="bar"><div class="" style="width:60%">Android - 60%</div></div>
+<div class="bar"><div class="lowlight" style="width:40%">iOS - 40%</div></div>
 <div class="bar"><div class="" style="width:65%">Discord - 65%</div></div>
 <div class="bar"><div class="" style="width:75%">Unity - 75%</div></div>
 <div class="bar"><div class="" style="width:90%">Godot - 90%</div></div>
-<div class="bar"><div class="highlight" style="width:80%">Linux (Ubuntu +Minimal) - 80%</div></div>
-<div class="bar"><div class="lowlight" style="width:40%">iOS - 40%</div></div>
-<div class="bar"><div class="" style="width:60%">Android - 60%</div></div>
 
 _Based on a general ranking compared to 100 other applicants._
 <hr>
