@@ -57,7 +57,7 @@
 <br>
 <div class="bar"><div class="" style="width:70%">Raspberry Pi - 70%</div></div>
 <div class="bar"><div class="" style="width:70%">Arduino - 70%</div></div>
-<div class="bar"><div class="w3-indigo" style="width:65%">BASIC - 65%</div></div>
+<div class="bar"><div class="lowlight" style="width:65%">BASIC - 65%</div></div>
 
 _Based on a general ranking compared to 100 other applicants._
 <br>
@@ -74,7 +74,9 @@ _Based on a general ranking compared to 100 other applicants._
 <br/>
 <div class="bar"><div class="" style="width:65%">Discord - 65%</div></div>
 <div class="bar"><div class="" style="width:75%">Unity - 75%</div></div>
-<div class="bar"><div class="" style="width:85%">Godot - 90%</div></div>
+<div class="bar"><div class="" style="width:90%">Godot - 90%</div></div>
+<div class="bar"><div class="highlight" style="width:80%">Linux (Ubuntu +Minimal) - 80%</div></div>
+<div class="bar"><div class="lowlight" style="width:40%">iOS - 40%</div></div>
 
 _Based on a general ranking compared to 100 other applicants._
 <hr>
