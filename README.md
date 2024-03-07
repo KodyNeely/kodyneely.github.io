@@ -77,6 +77,7 @@ _Based on a general ranking compared to 100 other applicants._
 <div class="bar"><div class="" style="width:90%">Godot - 90%</div></div>
 <div class="bar"><div class="highlight" style="width:80%">Linux (Ubuntu +Minimal) - 80%</div></div>
 <div class="bar"><div class="lowlight" style="width:40%">iOS - 40%</div></div>
+<div class="bar"><div class="" style="width:60%">Android - 60%</div></div>
 
 _Based on a general ranking compared to 100 other applicants._
 <hr>
