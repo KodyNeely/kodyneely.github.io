@@ -54,6 +54,7 @@
 <div class="bar"><div class="highlight" style="width:80%">C# - 80%</div></div>
 <div class="bar"><div class="" style="width:75%">C++ - 75%</div></div>
 <div class="bar"><div class="" style="width:90%">GDscript - 90%</div></div>
+<div class="bar"><div class="highlight" style="width:40%">Rust (currently learning) - 30%</div></div>
 <br>
 <div class="bar"><div class="" style="width:75%">Raspberry Pi - 75%</div></div>
 <div class="bar"><div class="" style="width:70%">Arduino - 70%</div></div>
