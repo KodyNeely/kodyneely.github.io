@@ -41,7 +41,7 @@
 <hr>
 
 ### Technical Skills:
-- Cisco Networking, General Testing & Development, <br>AutoCAD, Soldering, Wiring, 
+- General Testing & Development, Cisco Networking, AutoCAD, <br>Soldering, Wiring, Computer Engineering
 
 ### Language Proficiency:
 <div class="bar"><div class="highlight" style="width:80%">Python - 80%</div></div>
