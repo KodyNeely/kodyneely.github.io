@@ -53,7 +53,7 @@
 <div class="bar"><div class="" style="width:60%">Java - 60%</div></div>
 <div class="bar"><div class="highlight" style="width:70%">C# - 70%</div></div>
 <div class="bar"><div class="" style="width:65%">C++ - 65%</div></div>
-<div class="bar"><div class="" style="width:80%">GDscript - 80%</div></div>
+<div class="bar"><div class="" style="width:80%">GDScript - 80%</div></div>
 <div class="bar"><div class="highlight" style="width:40%">Rust (studying) - 40%</div></div>
 <br>
 <div class="bar"><div class="" style="width:70%">Raspberry Pi - 70%</div></div>
