@@ -1,7 +1,7 @@
 <style>
   header { text-wrap: nowrap }
   
-  .bar { margin-bottom: 6px; background-color: lightgray; border-radius: 5px }
+  .bar { text-wrap: nowrap; margin-bottom: 6px; background-color: lightgray; border-radius: 5px }
   .bar div { padding: 0.2em 16px; background-color: #3667A6; color: white; font-weight: bold; border-radius: 5px 0px 0px 5px }
   .bar .highlight { background-color: #214177 }
   .bar .lowlight { background-color: #82A6CB }
@@ -54,7 +54,7 @@
 <div class="bar"><div class="highlight" style="width:70%">C# - 70%</div></div>
 <div class="bar"><div class="" style="width:65%">C++ - 65%</div></div>
 <div class="bar"><div class="" style="width:80%">GDscript - 80%</div></div>
-<div class="bar"><div class="highlight" style="width:40%">Rust (currently learning) - 30%</div></div>
+<div class="bar"><div class="highlight" style="width:40%">Rust (studying) - 40%</div></div>
 <br>
 <div class="bar"><div class="" style="width:70%">Raspberry Pi - 70%</div></div>
 <div class="bar"><div class="" style="width:60%">Arduino - 60%</div></div>
