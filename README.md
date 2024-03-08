@@ -44,41 +44,41 @@
 - Cisco Networking, General Testing & Development, <br>AutoCAD, Soldering, Wiring, 
 
 ### Language Proficiency:
-<div class="bar"><div class="highlight" style="width:90%">Python - 90%</div></div>
-<div class="bar"><div class="" style="width:75%">PHP - 75%</div></div>
-<div class="bar"><div class="" style="width:70%">HTML5/CSS - 70%</div></div>
-<div class="bar"><div class="highlight" style="width:85%">JavaSctipt - 85%</div></div>
-<div class="bar"><div class="" style="width:70%">TypeScript - 70%</div></div>
-<div class="bar"><div class="lowlight" style="width:65%">SQL - 65%</div></div>
-<div class="bar"><div class="" style="width:70%">Java - 70%</div></div>
-<div class="bar"><div class="highlight" style="width:80%">C# - 80%</div></div>
-<div class="bar"><div class="" style="width:75%">C++ - 75%</div></div>
-<div class="bar"><div class="" style="width:90%">GDscript - 90%</div></div>
+<div class="bar"><div class="highlight" style="width:80%">Python - 80%</div></div>
+<div class="bar"><div class="" style="width:65%">PHP - 65%</div></div>
+<div class="bar"><div class="" style="width:60%">HTML5/CSS - 60%</div></div>
+<div class="bar"><div class="highlight" style="width:75%">JavaSctipt - 75%</div></div>
+<div class="bar"><div class="" style="width:60%">TypeScript - 60%</div></div>
+<div class="bar"><div class="lowlight" style="width:55%">SQL - 55%</div></div>
+<div class="bar"><div class="" style="width:60%">Java - 60%</div></div>
+<div class="bar"><div class="highlight" style="width:70%">C# - 70%</div></div>
+<div class="bar"><div class="" style="width:65%">C++ - 65%</div></div>
+<div class="bar"><div class="" style="width:80%">GDscript - 80%</div></div>
 <div class="bar"><div class="highlight" style="width:40%">Rust (currently learning) - 30%</div></div>
 <br>
-<div class="bar"><div class="" style="width:75%">Raspberry Pi - 75%</div></div>
-<div class="bar"><div class="" style="width:70%">Arduino - 70%</div></div>
-<div class="bar"><div class="lowlight" style="width:65%">BASIC - 65%</div></div>
+<div class="bar"><div class="" style="width:70%">Raspberry Pi - 70%</div></div>
+<div class="bar"><div class="" style="width:60%">Arduino - 60%</div></div>
+<div class="bar"><div class="lowlight" style="width:55%">BASIC - 55%</div></div>
 
 _Based on a general ranking compared to 100 other applicants._
 <br>
 
 ### Arcitectures:
-<div class="bar"><div class="highlight" style="width:90%">Node - 90%</div></div>
-<div class="bar"><div class="" style="width:80%">jQuery - 80%</div></div>
-<div class="bar"><div class="" style="width:75%">React - 75%</div></div>
-<div class="bar"><div class="" style="width:70%">Express - 70%</div></div>
-<div class="bar"><div class="" style="width:75%">Bootstrap - 75%</div></div>
-<div class="bar"><div class="lowlight" style="width:60%">Angular - 60%</div></div>
-<div class="bar"><div class="" style="width:70%">Vue - 70%</div></div>
-<div class="bar"><div class="lowlight" style="width:45%">.Net - 45%</div></div>
+<div class="bar"><div class="highlight" style="width:75%">Node - 75%</div></div>
+<div class="bar"><div class="" style="width:70%">jQuery - 70%</div></div>
+<div class="bar"><div class="" style="width:65%">React - 65%</div></div>
+<div class="bar"><div class="" style="width:60%">Express - 60%</div></div>
+<div class="bar"><div class="" style="width:65%">Bootstrap - 65%</div></div>
+<div class="bar"><div class="lowlight" style="width:50%">Angular - 50%</div></div>
+<div class="bar"><div class="" style="width:60%">Vue - 60%</div></div>
+<div class="bar"><div class="lowlight" style="width:35%">.Net - 35%</div></div>
 <br/>
-<div class="bar"><div class="highlight" style="width:80%">Linux (Ubuntu +Minimal) - 80%</div></div>
-<div class="bar"><div class="" style="width:60%">Android - 60%</div></div>
-<div class="bar"><div class="lowlight" style="width:40%">iOS - 40%</div></div>
-<div class="bar"><div class="" style="width:65%">Discord - 65%</div></div>
-<div class="bar"><div class="" style="width:75%">Unity - 75%</div></div>
-<div class="bar"><div class="" style="width:90%">Godot - 90%</div></div>
+<div class="bar"><div class="highlight" style="width:70%">Linux (Ubuntu +Minimal) - 70%</div></div>
+<div class="bar"><div class="" style="width:50%">Android - 50%</div></div>
+<div class="bar"><div class="lowlight" style="width:30%">iOS - 30%</div></div>
+<div class="bar"><div class="" style="width:55%">Discord - 55%</div></div>
+<div class="bar"><div class="" style="width:65%">Unity - 65%</div></div>
+<div class="bar"><div class="" style="width:80%">Godot - 80%</div></div>
 
 _Based on a general ranking compared to 100 other applicants._
 <hr>
